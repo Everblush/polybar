@@ -1,0 +1,2 @@
+# polybar
+Everblush Polybar Colors 
